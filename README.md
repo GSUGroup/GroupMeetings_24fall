@@ -27,4 +27,4 @@ Please update your presentation information with the following format.
 | 2024-12-03 | Zhuoyu Yao              | DMoE-OTA: Distributed Mix-of-Expert with Over-The-Air Aggregation | [Link](https://github.com/GSUGroup/GroupMeetings_24fall/blob/main/Slides/Zhuoyu%20Yao/Slide-1203.pptx) |
 
 
-
+This is a copy, and the original link of Group Seminar is [here](https://github.com/KaiyangLi1992/GroupMeetingSchedule/tree/main).
