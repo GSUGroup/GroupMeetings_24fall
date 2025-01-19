@@ -11,7 +11,7 @@ Please update your presentation information with the following format.
 | Date       | Presenter               | Topic                                                        | Slides                                                       |
 | ---------- | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2024-08-27 | Jinkun Han              | Email Personalization                                        | -                                                            |
-| 2024-09-03 | Kaiyang Li              | When Low-Rank Adapations Meets Federated Learning            | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Kaiyang%20Li/when%20VBLora%20meet%20FL.pptx) |
+| 2024-09-03 | Kaiyang Li              | When Low-Rank Adapations Meets Federated Learning            | [Link](https://github.com/GSUGroup/GroupMeetings_24fall/blob/main/Slides/Kaiyang%20Li/when%20VBLora%20meet%20FL.pptx) |
 | 2024-09-10 | Dong Yang               | Spectrum Prediction via Graph Structure Learning             | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Dong%20Yang/Spectrum_Prediction.pptx) |
 | 2024-09-17 | Qasim Zia               | EfficientNeT DT and VANET (Convolutional Neural Networks)    | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Qasim%20Zia/EfficientNet%20%20-%20%20Read-Only.pptx) |
 | 2024-09-24 | Haijing Zhang           | Robust Graph Representation Learning with Adversarial Training | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Haijing%20Zhang/HaijingZhang_PhDQualifierExam_2024Fall-1.pptx) |
